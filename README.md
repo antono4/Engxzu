@@ -1,17 +1,1 @@
-# Engxzu
-
-> **Created by Antono**
-
-A personal or project repository.
-
-## About
-
-This is a personal project repository.
-
-## License
-
-MIT License
-
----
-
-> **Created by Antono**
+Last updated: 2026-07-31 13:36:43 WIB
