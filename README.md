@@ -1,1 +1,32 @@
-Last updated: 2026-08-24 23:43:40 WIB
+# engxzu
+
+Engxzu is an online learning application that provides a place to learn English, which will help students for solving problems in learning English.
+
+## 📋 Overview
+
+This repository contains **72 files** and is built with the following technologies:
+
+Node.js, HTML
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-24 23:47:31 WIB*
