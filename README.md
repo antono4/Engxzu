@@ -1,33 +1,66 @@
-# engxzu
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-Engxzu is an online learning application that provides a place to learn English, which will help students for solving problems in learning English.
+<h1 align="center">engXzu - Make Easier to Learn English 👋</h1>
 
-## 📋 Overview
+<p align="center">
+  <strong>With Engxzu, we can develop English to level up one by one, Engxzu provides complete material with grammar. The material that we made is complete with important things that are used in everyday.</strong>
+</p>
 
-This repository contains **72 files** and is built with the following technologies:
-
-Node.js, HTML
-
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-npm run build
-```
-
-## ✨ Features
-
-- 📝 Auto-generated documentation
-
-## 🛠️ Technologies
-
-Node.js, HTML
-
-## 📄 License
-
-MIT License
+<p align="center">
+  <a href="https://github.com/antono4/Engxzu"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Engxzu-blue?logo=github"></a>
+  <a href="https://antono4.github.io/Engxzu/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-72-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-01 08:51:35 WIB-lightgrey">
+</p>
 
 ---
-*Last updated: 2026-09-01 06:39:20 WIB*
-Last updated: 2026-09-01 08:49:50 WIB
+
+## 📖 Tentang
+
+Repository **`Engxzu`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/Engxzu/`](https://antono4.github.io/Engxzu/).
+
+## 🗂️ Struktur Proyek
+
+```
+Engxzu/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+> Total **72 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/Engxzu/](https://antono4.github.io/Engxzu/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-09-01 08:51:35 WIB** oleh GitHub Actions .</sub>
